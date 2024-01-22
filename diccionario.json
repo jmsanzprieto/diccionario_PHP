@@ -1,0 +1,24 @@
+{
+    "es": {
+      "titulo": "Mi Aplicación Multilingüe",
+      "saludo": "¡Hola!",
+      "despedida": "Adiós",
+      "bienvenido": "Bienvenido"
+    },
+
+    "en": {
+      "titulo": "My Multilingual Application",
+      "saludo": "Hello!",
+      "despedida": "Goodbye",
+      "bienvenido": "Welcome"
+
+    },
+    "fr": {
+      "titulo": "Mon application multilingue",
+      "saludo": "Bonjour!",
+      "despedida": "Au revoir",
+      "bienvenido": "Bienvenue"
+
+    }
+
+}
